@@ -1,4 +1,4 @@
-yolov5xu.ptmodels/*.pt
-models/best.pt
 yolov5xu.pt
-models/keypoints_model.pth
+models/best.pt
+best.pt
+keypoints_model.pth
